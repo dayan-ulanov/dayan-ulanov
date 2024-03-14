@@ -2,7 +2,8 @@
    <a href="https://daniilshat.ru/" target="_blank">I'm Dayan</a>
    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
 </h1>
-- 👀 I am interested in front-end application development and user interface design.
+<h3 align="center">I am interested in front-end application development and user interface design</h3>
+- 👀 .
 - 🌱 I am currently learning new web development technologies and techniques such as TypeScript and improving application performance.
 - 💞️ I am ready to collaborate on projects where my expertise in front-end development and UXUI design will be useful.
 - 📫 You can find me at the following contacts:
