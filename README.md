@@ -3,7 +3,7 @@
    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
 </h1>
 <h3 align="center">I am interested in front-end application development and user interface design</h3>
-- 👀 .
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 - 🌱 I am currently learning new web development technologies and techniques such as TypeScript and improving application performance.
 - 💞️ I am ready to collaborate on projects where my expertise in front-end development and UXUI design will be useful.
 - 📫 You can find me at the following contacts:
