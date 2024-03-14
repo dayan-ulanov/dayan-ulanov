@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Dayan! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
+<h1 align="center">Hey there, I'm Dayan! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 <h3 align="center">Passionate about front-end development and crafting user-centric interfaces</h3>
 
 - 🌱 <b>Currently diving deep into cutting-edge web technologies like TypeScript to elevate application performance.</b>
