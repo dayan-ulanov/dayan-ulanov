@@ -1,15 +1,13 @@
-<h1 align="center">Hello 
-   <a href="https://daniilshat.ru/" target="_blank">I'm Dayan</a>
-   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
-</h1>
-<h3 align="center">I am interested in front-end application development and user interface design</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-- 🌱 I am currently learning new web development technologies and techniques such as TypeScript and improving application performance.
-- 💞️ I am ready to collaborate on projects where my expertise in front-end development and UXUI design will be useful.
-- 📫 You can find me at the following contacts:
-   - Telegram: [@dayanulanov](https://t.me/dayanulanov)
-   - Github: [github.com/dayan-ulanov](https://github.com/dayan-ulanov)
-   - Linkedin: [linkedin.com/in/dayan-ulanov](https://www.linkedin.com/in/dayan-ulanov)
-   - Gmail: [dayanulanov.wer@gmail.com](mailto:dayanulanov.wer@gmail.com)
-- 😄 My pronouns: he/him.
-- ⚡ Fun fact: I love experimenting with new ideas in design and development, and am always up for new technological challenges!
+<h1 align="center">👋 Hello, I'm Dayan! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
+<h3 align="center">Passionate about front-end development and user interface design</h3>
+
+- 🌱 <b>Currently exploring new web development technologies like TypeScript and focusing on enhancing application performance.</b>
+- 💼 <b>Open to collaborating on projects where my expertise in front-end development and UX/UI design can contribute.</b>
+- 📫 <b>Reach out to me through:</b>
+   - <b>Telegram:</b> [@dayanulanov](https://t.me/dayanulanov)
+   - <b>GitHub:</b> [github.com/dayan-ulanov](https://github.com/dayan-ulanov)
+   - <b>LinkedIn:</b> [linkedin.com/in/dayan-ulanov](https://www.linkedin.com/in/dayan-ulanov)
+   - <b>Gmail:</b> [dayanulanov.wer@gmail.com](mailto:dayanulanov.wer@gmail.com)
+- 😄 <b>Pronouns:</b> he/him
+- ⚡ <b>Fun fact:</b> I enjoy experimenting with new design and development ideas, and thrive on technological challenges!
+
