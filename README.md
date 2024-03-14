@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @dayan-ulanov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-dayan-ulanov/dayan-ulanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, I'm Daniyar Sharshenbaev.
+- 👀 I am interested in front-end application development and user interface design.
+- 🌱 I am currently learning new web development technologies and techniques such as TypeScript and improving application performance.
+- 💞️ I am ready to collaborate on projects where my expertise in front-end development and UXUI design will be useful.
+- 📫 You can find me at the following contacts:
+   - Telegram: [@dayanulanov](https://t.me/dayanulanov)
+   - Github: [github.com/dayan-ulanov](https://github.com/dayan-ulanov)
+   - Linkedin: [linkedin.com/in/dayan-ulanov](https://www.linkedin.com/in/dayan-ulanov)
+   - Gmail: [dayanulanov.wer@gmail.com](mailto:dayanulanov.wer@gmail.com)
+- 😄 My pronouns: he/him.
+- ⚡ Fun fact: I love experimenting with new ideas in design and development, and am always up for new technological challenges!
