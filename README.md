@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello 
+<h1 align="center">Hello 
    <a href="https://daniilshat.ru/" target="_blank">I'm Dayan</a>
-   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
 </h1>
 - 👀 I am interested in front-end application development and user interface design.
 - 🌱 I am currently learning new web development technologies and techniques such as TypeScript and improving application performance.
