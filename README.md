@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Daniyar Sharshenbaev.
+- 👋 Hello, I'm Dayan.
 - 👀 I am interested in front-end application development and user interface design.
 - 🌱 I am currently learning new web development technologies and techniques such as TypeScript and improving application performance.
 - 💞️ I am ready to collaborate on projects where my expertise in front-end development and UXUI design will be useful.
