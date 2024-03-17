@@ -10,3 +10,5 @@
    - <b>Email:</b> [dayanulanov.wer@gmail.com](mailto:dayanulanov.wer@gmail.com)
 - 😄 <b>Pronouns:</b> he/him
 - ⚡ <b>Fun fact:</b> I thrive on the excitement of experimenting with novel design and development ideas!
+
+Figma Illustrate: <a href="https://www.figma.com/file/ivzJJqTXB7CvZM2dhncVs6/JOY-Illustration-System-(Community)?type=design&node-id=0%3A1&mode=design&t=kW5fqZk8DvDCj8uv-1">Illustrate Joy</a>
